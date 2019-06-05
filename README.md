@@ -20,3 +20,7 @@ Conway's Game of Life implemented in C++ and SFML. You can find the details for 
 `left click`  -> Make cell alive
 
 `right click` -> Make cell dead
+
+## Screenshots
+
+<img height="480px" src="Screenshots/1.png">
