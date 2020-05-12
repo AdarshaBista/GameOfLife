@@ -21,6 +21,6 @@ Conway's Game of Life implemented in C++ and SFML. You can find the details for 
 
 `right click` -> Make cell dead
 
-## Screenshots
+## Demo
 
-<img height="480px" src="Screenshots/1.png">
+<img height="480px" src="Demo/demo.gif">
